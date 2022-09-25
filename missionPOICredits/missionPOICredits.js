@@ -5,8 +5,8 @@
 // @description  Credits und POI Info, basierend auf den Scripts von BOS-Ernie und ViperAC, itsDreyter
 // @author       firemaster1985
 // @match        *.leitstellenspiel.de/missions/*
-// @updateURL    https://www.leitstellenspiel-tutorial.ch/lss-scripts/missionPOICredits.js
-// @downloadURL  https://www.leitstellenspiel-tutorial.ch/lss-scripts/missionPOICredits.js
+// @updateURL    https://raw.githubusercontent.com/fm1985/LeitstellenspielScripts/main/missionPOICredits/missionPOICredits.js
+// @downloadURL  https://raw.githubusercontent.com/fm1985/LeitstellenspielScripts/main/missionPOICredits/missionPOICredits.js
 // @grant        none
 // ==/UserScript==
 
