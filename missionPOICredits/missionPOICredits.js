@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Mission POI AND Credits
+// @name         missionPOICredits
 // @namespace    http://www.leitstellenspiel-tutorial.ch/
 // @version      0.2
 // @description  Credits und POI Info, basierend auf den Scripts von BOS-Ernie und ViperAC, itsDreyter
